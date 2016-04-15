@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e11a1ff1-44ed-4507-b0f4-ac8b4b1140b1" name="Server wptest local" url="http://localhost/wptest">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\wptest" accessType="MOUNT" />
+      </webServer>
+      <webServer id="310b789e-b741-4d0f-8119-22f1a3240fe7" name="servidor ah local" url="http://localhost/wptest/wp-content/plugins/anchor-highlighter">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
