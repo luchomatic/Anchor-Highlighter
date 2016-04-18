@@ -7,6 +7,9 @@
       <webServer id="310b789e-b741-4d0f-8119-22f1a3240fe7" name="servidor ah local" url="http://localhost/wptest/wp-content/plugins/anchor-highlighter">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="dac6e43e-a5af-4217-b0e1-2541c6540024" name="ACM Resuls Plugin Server" url="http://localhost/googleapi">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
