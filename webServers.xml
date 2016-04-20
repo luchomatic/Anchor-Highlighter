@@ -8,7 +8,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="dac6e43e-a5af-4217-b0e1-2541c6540024" name="ACM Resuls Plugin Server" url="http://localhost/googleapi">
-        <fileTransfer host="172.99.67.225" port="2222" rootFolder="/wp-content/plugins/acm-results-stats" accessType="SFTP" username="sherwin150-axlotstage" />
+        <fileTransfer host="172.99.67.225" port="2222" rootFolder="/wp-content/plugins/acm-results-stats" accessType="SFTP" password="dfecdfcddfc2dfccdfcddf9fdfcddfd9df9edf9edf9edfcedfc2dfc2" username="sherwin150-axlotstage" />
       </webServer>
     </option>
   </component>
