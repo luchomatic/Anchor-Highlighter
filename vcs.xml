@@ -18,8 +18,12 @@
           <option name="url" value="https://luchomatic@bitbucket.org/axlot/acm-results-stats.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/axlot/pasco" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\xampp\htdocs\googleapi\wp-content\plugins" />
+    <option name="cloneParentDir" value="C:\Users\axlot\Documents\Power On Marketing\PASCO" />
   </component>
 </application>
