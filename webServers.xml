@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="e11a1ff1-44ed-4507-b0f4-ac8b4b1140b1" name="Server sherwin williams" url="http://localhost/wptest">
-        <fileTransfer host="172.99.67.225" port="2222" accessType="SFTP" password="dfecdfcddfc2dfccdfcddf9fdfcddfd9df9edf9edf9edfcedfc2dfc2" username="sherwin150-axlotstage" />
-      </webServer>
-    </option>
-  </component>
-</application>
