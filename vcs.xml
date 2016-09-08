@@ -146,6 +146,10 @@
           <option name="url" value="https://bitbucket.org/axlot/celebration-bowl" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/axlot/a-total-solution" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\axlot\Documents\Power On Marketing\" />
