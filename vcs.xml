@@ -186,6 +186,10 @@
           <option name="url" value="https://bitbucket.org/inudev/gwc" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/axlot/netsuite-proxy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\axlot\Documents\Power On Marketing\" />
