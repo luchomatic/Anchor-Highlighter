@@ -1,14 +1,14 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update $FileName$:$ProjectFileDir$/themes/boca-raton-bowl/$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--no-cache --update $FileName$:$ProjectFileDir$/sites/all/themes/icma/assets/css/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
-      <option name="output" value="$FileParentDir\$FileNameWithoutExtension$.css" />
+      <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array />
       </option>
