@@ -198,6 +198,10 @@
           <option name="url" value="https://bitbucket.org/axlot/navelite" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/luchomatic/dome" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\axlot\Documents\Power On Marketing\" />
